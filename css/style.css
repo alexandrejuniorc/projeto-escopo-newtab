@@ -4,3 +4,6 @@
 /*  HOME  */
 @import "./home.css";
 @import "./list.css";
+
+/* CADASTRAR */
+@import "./formulario.css";
